@@ -4,6 +4,8 @@ In this project, we developed a digital logic analyzer and tester using an Ardui
 This system allows users to analyze up to 16 input signals in the graphic user interface, with features such as 
 zooming in on and out of signals, saving and loading signals, and selecting which signals are shown. 
 The tester module also allows users to generate two custom signals on the output pins of the device.
+
+Introduction video availabe at [Aparat](https://www.aparat.com/v/rQROq).
 ## Team Members:
 - Masih Eskandar 97105736
 - Mehrdad Saberi 97110133
